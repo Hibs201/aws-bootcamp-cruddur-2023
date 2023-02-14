@@ -15,7 +15,7 @@ I enabled MFA (Multi-factor authentication) for my root account. This provides m
 
 
 
-# Archtecture design (Conceptual and logical).
+# Architectural design (Conceptual and logical).
 
 
 Below i have posted the link for the architectual design of my microbloggin app. I used the lucidCharts app which helped me recreate a logical design.
