@@ -1,4 +1,7 @@
 # FREE AWS Cloud Project Bootcamp
+FRONTEND_URL="*" BACKEND_URL="*" docker container run --rm -p 4567:4567 -d backend-flask
+
+docker container run --rm -p 4567:4567 -it -e FRONTEND_URL="*" -e BACKEND_URL="*" backend-flask
 
 - Application: Cruddur
 - Cohort: 2023-A1
