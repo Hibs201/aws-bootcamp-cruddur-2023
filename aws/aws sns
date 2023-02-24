@@ -1,0 +1,4 @@
+aws sns subscribe \
+    --topic-arn "arn:aws:sns:us-east-1:694727149695:billing-alarm"\
+    --protocol email \
+    --notification-endpoint sudhayfah@gmail.com

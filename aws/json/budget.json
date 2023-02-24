@@ -1,10 +1,9 @@
 {
     "BudgetLimit": {
-        "Amount": "5",
-        "Unit": "USD"
+        "Amount": "100"
     },
-    "BudgetName": "My Monthly Cost Budget",
-    "BudgetType": "Cost Budget",
+    "BudgetName": "Example Tag Budget",
+    "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
             "user:Key$value1",
